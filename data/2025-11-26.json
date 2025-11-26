@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "ae3f0d4f-b26f-4f0a-9174-0c7c4b9300f1",
+    "Amount": 10.50,
+    "Description": "Test transaction",
+    "Timestamp": "2025-11-26T16:22:28.758161+01:00",
+    "Date": "2025-11-26",
+    "Type": 1
+  },
+  {
+    "Id": "60be8e7c-7502-4da8-956a-d260477b50b2",
+    "Amount": 10.50,
+    "Description": "Test transaction",
+    "Timestamp": "2025-11-26T16:39:11.804334+01:00",
+    "Date": "2025-11-26",
+    "Type": 1
+  },
+  {
+    "Id": "d3e91b68-60d7-4421-88c4-8a596b3ed990",
+    "Amount": 20,
+    "Description": "Cosmetics",
+    "Timestamp": "2025-11-26T16:58:27.987416+01:00",
+    "Date": "2025-11-26",
+    "Type": 0
+  },
+  {
+    "Id": "fdc88fb4-cffd-4af2-b5fe-6c21dacb7795",
+    "Amount": 5000,
+    "Description": "Salaray",
+    "Timestamp": "2025-11-26T17:35:26.795044+01:00",
+    "Date": "2025-11-26",
+    "Type": 0
+  },
+  {
+    "Id": "2db8c485-6b87-4728-82ac-860471bda14f",
+    "Amount": 2000,
+    "Description": "vacation",
+    "Timestamp": "2025-11-26T17:35:48.63206+01:00",
+    "Date": "2025-11-26",
+    "Type": 1
+  }
+]
