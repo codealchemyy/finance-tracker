@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "ae68d3f2-d94a-4bdd-a225-4d58b8b6d65c",
+    "Amount": 10.00,
+    "Description": "Lunch Snack",
+    "Timestamp": "2025-11-28T12:05:00",
+    "Date": "2025-11-28",
+    "Type": 1
+  },
+  {
+    "Id": "b7a56933-be57-4cb2-8075-227240016023",
+    "Amount": 80.00,
+    "Description": "Clothes",
+    "Timestamp": "2025-11-28T15:30:00",
+    "Date": "2025-11-28",
+    "Type": 1
+  },
+  {
+    "Id": "d5c76f59-05ad-454e-b5c3-dc2c9622652f",
+    "Amount": 200,
+    "Description": "Sold Old Books",
+    "Timestamp": "2025-11-28T10:40:00",
+    "Date": "2025-11-28",
+    "Type": 0
+  }
+]

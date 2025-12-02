@@ -32,7 +32,7 @@ namespace BudgetTracker.Services
             }
             catch (Exception ex)
             {
-                // In a real-world app, consider more robust error handling
+                // error handling
                 Console.WriteLine($"Failed to log transaction: {ex.Message}");
             }
         }

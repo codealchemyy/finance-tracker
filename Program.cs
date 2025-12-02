@@ -17,7 +17,6 @@ var loggerService = new LoggerService(LogsDirectory, LogFileName);
 transactionService.TransactionAdded += loggerService.HandleTransactionAdded;
 
 bool exitRequested = false;
-
 while (!exitRequested)
 {
     Console.WriteLine();
@@ -55,8 +54,7 @@ while (!exitRequested)
     }
 }
 
-// ---- local helper functions ----
-
+// local helper functions 
 void AddTransactionFlow(TransactionService transactionService)
 {
     Console.WriteLine("=== Add Transaction ===");
@@ -105,7 +103,7 @@ void AddTransactionFlow(TransactionService transactionService)
     try
     {
 
-        // 4) Call the service (ADD)
+        // 4) Call the service to add the transaction 
         var transaction = transactionService.AddTransaction(type, description, amount);
 
         Console.WriteLine();
@@ -185,7 +183,7 @@ void GenerateReportFlow (TransactionService transactionService)
 
     try
     {
-
+        // Fetch transactions in the date range
         var transactions = transactionService.GetTransactionsInRange(startDate, endDate).ToList();
 
         if (transactions.Count == 0)

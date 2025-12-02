@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "dec71da8-ba1e-4b8d-954d-e7de70342b36",
+    "Amount": 45.00,
+    "Description": "Cinema",
+    "Timestamp": "2025-11-27T18:15:00",
+    "Date": "2025-11-27",
+    "Type": 1
+  },
+  {
+    "Id": "5e3ad2b5-88c9-4c61-8717-ec2a6136e5e8",
+    "Amount": 25.00,
+    "Description": "Taxi",
+    "Timestamp": "2025-11-27T13:10:00",
+    "Date": "2025-11-27",
+    "Type": 1
+  },
+  {
+    "Id": "ff813e51-08e7-4fcf-bd89-b02e14dbd9a2",
+    "Amount": 300,
+    "Description": "Freelance Work",
+    "Timestamp": "2025-11-27T09:00:00",
+    "Date": "2025-11-27",
+    "Type": 0
+  }
+]
